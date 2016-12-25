@@ -4,6 +4,7 @@ DEPENDENCIES
 - OpenCV
 - QT5
 - Microsoft Kinect SDk (https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+- CMake
 
 COMPILING
 - Compile using Cmake
